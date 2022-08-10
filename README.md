@@ -1,5 +1,5 @@
 - 👋 Oi eu sou @nathiellydasilva
-- 👀 Eu sou interessada em desainer de umha
+- 👀 Eu sou interessada em desainer de unha
 - 🌱 Atualmente estou aprendendo HTML,CSS
 - 💞️ Estou procurando colaborar em projetos para meu futuro
 - 📫 Você pode me encontrar em nathielly.caetano@escola.pr.gov.br
