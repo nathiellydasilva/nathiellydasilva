@@ -1,7 +1,7 @@
 - 👋 Oi eu sou @nathiellydasilva
-- 👀 I’m interested in ...manicure
-- 🌱 I’m currently learning ...html,css
-- 💞️ I’m looking to collaborate on ...
+- 👀 Eu sou interessada em desainer de umha
+- 🌱 Atualmente estou aprendendo
+- 💞️ 
 - 📫 How to reach me ...
 
 <!---
